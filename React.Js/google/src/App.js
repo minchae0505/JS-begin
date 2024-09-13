@@ -1,5 +1,4 @@
 import React from "react";
-import "./App.css";
 import More from "./img/more.png";
 import My from "./img/My.png";
 import glog from "./img/glog.png";
